@@ -1,2 +1,3 @@
 print("hello world")
 print("computers are good")
+money=input()
